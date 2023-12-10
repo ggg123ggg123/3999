@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "рыбка",
+    "description": "не скушает никого",
+    "itemsInBox": "16 шт",
+    "weight": 500,
+    "price": 3000,
+    "imgSrc": "kap.jpg"
+  },
+  {
+    "id": 2,
+    "title": "шаурма вкусная",
+    "description": "вкусная",
+    "itemsInBox": "6 кг",
+    "weight": 205,
+    "price": 250,
+    "imgSrc": "california-tempura.jpg"
+  },
+  {
+    "id": 3,
+    "title": "пельмени вареные",
+    "description": "ураа",
+    "itemsInBox": "6 шт",
+    "weight": 182,
+    "price": 99,
+    "imgSrc": "zapech-california.jpg"
+  },
+  {
+    "id": 4,
+    "title": "стейк желтый",
+    "description": "желтый",
+    "itemsInBox": "6 шт",
+    "weight": 230,
+    "price": 1,
+    "imgSrc": "philadelphia.jpg"
+  },
+  {
+    "id": 5,
+    "title": "говядина",
+    "description": "свинина",
+    "itemsInBox": "7 шт",
+    "weight": 149,
+    "price": 230,
+    "imgSrc": "111.jpeg"
+  },
+  {
+    "id": 6,
+    "title": "чебурек хорошая прожарка",
+    "description": "единственный такой чебурек во всем мире",
+    "itemsInBox": "17 шт",
+    "weight": 200,
+    "price": 70,
+    "imgSrc": "444.jpeg"
+  },
+  {
+    "id": 7,
+    "title": "чебурек плохая прожарка",
+    "description": "ну обычный вкусный чебурек",
+    "itemsInBox": "73 шт",
+    "weight": 100,
+    "price": 50,
+    "imgSrc": "333.jpeg"
+  },
+  {
+    "id": 8,
+    "title": "курочка",
+    "description": "прожарка нет ее",
+    "itemsInBox": "63 шт",
+    "weight": 180,
+    "price": 700,
+    "imgSrc": "kurochka.jpg"
+  }
+]
